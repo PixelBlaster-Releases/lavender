@@ -13,7 +13,6 @@
 * lavender: wlan: Relax WiFi re-association RSSI
 * lavender: Add overlay for masking the notch
 * lavender: Add Notch Bar Killer overlay
-* lavender : update coral build fingerprint
 * CTS Pass without magisk 
 * Add support for 240FPS 1/8 slow-motion
 * Fixed Offline charging animation.
