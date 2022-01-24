@@ -1,4 +1,12 @@
-----------------------------------------------------------
+-------------------------------------------------------------------------------
+Changlog for PixelBlaster 4.0 
+* Disabel fcrypt.
+* Droped Xiaomi Part.
+* lavender: update ravan build fingerprint.
+* lavender: sepolicy: Grant hal_power_default cgroup read file permission.
+* lavender: Switch to Audio HAL V7.
+* Much more check device tree if you want.
+-------------------------------------------------------------------------------
 * Vilte support added.
 * Clear up Xiaomi part.
 * Added Hack’s for unlimited photos backup on Google photos.
