@@ -1,4 +1,23 @@
--------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+*Changlog for PixelBlaster 4.0*
+* Xiaomi Parts added 
+* XiaomiDoze: AOD added back 
+* lavender: Build minijail service for imsrtpservice
+* lavender: Update portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0 
+* lavender:Update qti-telephony-common from LA.UM.9.6.2.r1-04100 
+* lavender:Update these IMS libs to LA.UM.9.6.2.r1-04100-89xx.0 
+* DT2W Working now
+* Update graphics blobs from taimen RP1A.201005.004 
+* Switched to v@490 graphics driver with openGL 
+* lavender: Config:Update org.codeaurora.ims permission
+* lavender: overlay: Allow device override audio panel location to the right side
+* lavender: Update libsdmcolor and libsdmextension 
+* lavender: Update lib-imsvtcore from mojito
+* lavender: Add WifiOverlay
+* lavender: DeviceSettings: Drop thermal engine
+* Disabel fcrypt [No need of wiping data from this build in future update]
+
+---------------------------------------------------------------------------------------
 Changlog for PixelBlaster 4.0 
 * Disabel fcrypt.
 * Droped Xiaomi Part.
@@ -6,7 +25,8 @@ Changlog for PixelBlaster 4.0
 * lavender: sepolicy: Grant hal_power_default cgroup read file permission.
 * lavender: Switch to Audio HAL V7.
 * Much more check device tree if you want.
--------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
 Changlog for PixelBlaster 3.0 
 * Vilte support added.
 * Clear up Xiaomi part.
@@ -32,5 +52,6 @@ Changlog for PixelBlaster 3.0
 * lavender: disable config_multiColorBatteryLed
 * lavender: Adjust QS tile rows and columns 
 * lavender : update redfin build fingerprint
+
 ----------------------------------------------------------
 
